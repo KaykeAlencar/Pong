@@ -22,9 +22,9 @@ const pong = {
 
 	/////////////////////////////////////////////////////////////
 	audios:[
-		preLoader.LoadMusic("soundtrack/musica.wav"), 
+		//preLoader.LoadMusic("soundtrack/musica.wav"), 
 		preLoader.LoadMusic("soundtrack/one.wav"),
-		preLoader.LoadMusic("soundtrack/al-green.wav")
+		//preLoader.LoadMusic("soundtrack/al-green.wav")
 	],
 
 	//musica:undefined,
