@@ -18,6 +18,7 @@ class helper {
 	LoadMusic(link){
 		let audio = new Audio()
 		audio.src = link
+		audio.loop = true
 
 		return audio
 	}
